@@ -9,6 +9,16 @@ Be connected to your server and authenticated with your rcon:
 3. `rcon exec swap` optional, if the winning team of the knife round decided to swap
 4. `rcon exec live` Start the game!
 
+## During the match
+Pause next freeze time: `rcon exec pause`
+Unpause: `rcon exec pause`
+
+## Other utilities
+`scramble.cfg`: Scramble the teams three times
+`bhopAn.cfg` und `bhopAus.cfg`: Some tweaking to physics for easier bunny hopping
+`help.cfg`: Show a list of commands
+ 
+
 # Tips
 ## Adjust your rates for 128 Tick gaming
 
