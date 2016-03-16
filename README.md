@@ -11,11 +11,14 @@ Be connected to your server and authenticated with your rcon:
 
 ## During the match
 Pause next freeze time: `rcon exec pause`
+
 Unpause: `rcon exec pause`
 
 ## Other utilities
 `scramble.cfg`: Scramble the teams three times
+
 `bhopAn.cfg` und `bhopAus.cfg`: Some tweaking to physics for easier bunny hopping
+
 `help.cfg`: Show a list of commands
  
 
