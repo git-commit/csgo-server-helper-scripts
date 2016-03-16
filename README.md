@@ -12,7 +12,9 @@ Be connected to your server and authenticated with your rcon:
 # Tips
 ## Adjust your rates for 128 Tick gaming
 
-Add to you launch options: `-tickrate 128`
+> Disclaimer: Only do this if you have a decent computer and a stable internet connection, otherwise your experience might suffer
+
+Add to you launch options: `-tickrate 128` (right click on CS:GO in the Steam library -> Properties -> Set launch options)
 
 Create an `autoexec.cfg` in `<steam>\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` with the following contents:
 
